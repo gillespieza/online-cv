@@ -4,11 +4,11 @@
 
 sidebar:
   about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: False # set to False if you want education in main section instead of in sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: Amanda Dominy
-  tagline: WordPress dev, fabricator, dog lover
+  tagline: WordPress dev, fabricator(&trade;), dog lover
   avatar: web_profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -22,7 +22,7 @@ sidebar:
   twitter: "@gillespieza"
   stack-overflow: 184801/gillespieza # Number/Username, e.g. 123456/alandoe
   wordpress-stackexchange: 1118/gillespieza
-  goodreads: # Number-Username, e.g. 123456-alandoe
+  goodreads: 10236347-amanda # Number-Username, e.g. 123456-alandoe
 
   languages:
     - idiom: English
@@ -48,32 +48,18 @@ career-profile:
   title: Career Profile
   summary: |
     I built my first website in 2006, and I have loved web development ever since. I have a passion for usability, and for creating functional, usable websites that are easy to use on the client admin end. I started my own WordPress/PHP web development business in 2007, and most of my clients have been NGOs or small businesses that have come to me through word-of-mouth.
+
     Currently, I use Twitter Bootstrap 4+ as a framework for WordPress theme front ends, and create or customize plugins according to client needs. I use SCSS/SASS, Git, HTML5, CSS3, PHP and JQuery on a daily basis. 
+
     I also dabble in online advertising using Google AdWords. 
+
     Although my formal education was in Biochemistry (Immunology), I've discovered a love for web programming and data analytics (probably through my experience of Bioinformatics).
 education:
   - degree: BSc (Hons) in Biochemistry
     university: University of KwaZulu-Natal
     time: 2002
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+
 experiences:
   - role: Lead Developer
     time: 2015 - Present
@@ -112,75 +98,52 @@ experiences:
       pellentesque eu, pretium quis, sem.
         - Bullet point
         - Bullet point
+
 projects:
   title: Projects
   intro: >
-    You can list your side projects or open source libraries in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    These are my previous clients. They are mostly small businesses and NGOs, and sadly, not all of these businesses are still in existance. I am happy to provide screenshots of my work for businesses that no longer exist.
   assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - title: BokBus Garden Route Tours
+      link: "https://www.bokbus.com"
+      tagline: "A responsive WordPress template built on Bootstrap 4 and Understrap. Includes WooCommerce support and a rather complex booking system."
 
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
+    - title: Encounters SA Documentary Film Festival
+      link: "https://www.encounters.co.za"
+      tagline: "A client who requires an annual site redesign. Artwork is provided by an external Graphic Designer, and I implement the design into a responsive WordPress theme. Custom Posts handle the Films, Guests and Guest Appearances. A complex film submission and paypal payment is handled using Gravity Forms."
 
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - title: Biophysics Workshop
+      link: "https://biophysicsworkshop.co.za/"
+      tagline: "This WordPress site is used by the Centre for Imaging and Analysis, at the University of Cape Town (South Africa), for advertising various courses and workshops. For each course, the design is changed to fit new sponsors and corporate branding requirements. Membership permissions are required for certain sections of the website, and the site includes a student forum."
 
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - title: chemfp
+      link: "http://chemfp.com/"
+      tagline: "Originally created in WordPress, this site was converted to a static Jekyll site."
 
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-    - title: The Art of Computer Programming
-      link: "#"
-      authors: Donald E. Knuth
-      conference: Addison-Wesley, 1968
-
-    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-      link: "#"
-      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-    - title: A syntax directed compiler for Algol 60
-      link: "#"
-      authors: Edgar T. Irons
-      conference: "Comm. ACM 4 (1961), 51–55"
+    - title: mmpdb
+      link: "http://mmpdb.dalkescientific.com/"
+      tagline: "This static site was created using Jekyll, with a Bootstrap 4-compatible theme."
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Python & Django
+    - name: HTML5 and CSS3
       level: 98%
 
-    - name: Javascript & jQuery
+    - name: Bootstrap
       level: 98%
 
-    - name: Angular
-      level: 98%
+    - name: WordPress
+      level: 90%
 
-    - name: HTML5 & CSS
-      level: 95%
-
-    - name: Ruby on Rails
+    - name: SASS
       level: 85%
 
-    - name: Sketch & Photoshop
+    - name: Javascript & jQuery
+      level: 68%
+
+    - name: Photoshop
       level: 60%
 
 footer: >
