@@ -3,12 +3,12 @@
 #
 
 sidebar:
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: Amanda Dominy
-  tagline: WordPress dev, Fabricator, Dog lover
+  tagline: WordPress dev, fabricator, dog lover
   avatar: web_profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -35,25 +35,26 @@ sidebar:
     - item: Dog Training
       link:
 
-    - item: Embroidery
+    - item: Textile Crafts
       link:
 
-    - item: Knitting
+    - item: Dystopian Fiction
+      link:
+
+    - item: Euro-style Boardgames
       link:
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    I built my first website in 2006, and I have loved web development ever since. I have a passion for usability, and for creating functional, usable websites that are easy to use on the client admin end. I started my own WordPress/PHP web development business in 2007, and most of my clients have been NGOs or small businesses that have come to me through word-of-mouth.
+    Currently, I use Twitter Bootstrap 4+ as a framework for WordPress theme front ends, and create or customize plugins according to client needs. I use SCSS/SASS, Git, HTML5, CSS3, PHP and JQuery on a daily basis. 
+    I also dabble in online advertising using Google AdWords. 
+    Although my formal education was in Biochemistry (Immunology), I've discovered a love for web programming and data analytics (probably through my experience of Bioinformatics).
 education:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: BSc (Hons) in Biochemistry
+    university: University of KwaZulu-Natal
+    time: 2002
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
