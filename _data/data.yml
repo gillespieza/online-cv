@@ -54,50 +54,12 @@ career-profile:
     I also dabble in online advertising using Google AdWords. 
 
     Although my formal education was in Biochemistry (Immunology), I've discovered a love for web programming and data analytics (probably through my experience of Bioinformatics).
+
 education:
   - degree: BSc (Hons) in Biochemistry
     university: University of KwaZulu-Natal
     time: 2002
     details: |
-
-experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
 
 projects:
   title: Projects
@@ -129,22 +91,22 @@ skills:
 
   toolset:
     - name: HTML5 and CSS3
-      level: 98%
+      level: 95%
 
     - name: Bootstrap
-      level: 98%
-
-    - name: WordPress
       level: 90%
 
-    - name: SASS
+    - name: WordPress
       level: 85%
+
+    - name: SASS
+      level: 70%
 
     - name: Javascript & jQuery
       level: 68%
 
     - name: Photoshop
-      level: 60%
+      level: 50%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
