@@ -63,37 +63,6 @@ education:
     time: 2002
     details: |
 
-experience:
-  - role: Owner/Freelance Web Developer
-    time: 2007 - Present
-    company: Salamander Web Media, South Africa
-    details: |
-    Foo
-
-  - role: Freelance Academic Conference Organiser
-    time: 2007 - 2019
-    company: University of Cape Town
-    details: |
-        Foo
-
-  - role: Medical Editor and Technical Writer
-    time: 2008 - 2012 (part time)
-    company: Care & Cure Medical Publishing
-    details: |
-        Foo
-
-  - role: IT Manager
-    time: 2008 - 2012 (part time)
-    company: Care & Cure Medical Publishing
-    details: |
-        Foo
-
-  - role: Bioinformatics Intern
-    time: 2005 - 2006
-    company: National Bioinformatics Network
-    details: |
-        Internship involving the improvement of skills for further bioinformatics post-graduate study and/or employment. Skills taught included data analytics using Python and R.
-
 projects:
   title: Projects
   intro: >
