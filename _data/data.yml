@@ -62,7 +62,12 @@ education:
     university: University of KwaZulu-Natal
     time: 2002
     details: |
-
+experience:
+  - role: Owner/Freelance Web Developer
+    time: 2007 - Present
+    company: Salamander Web Media, South Africa
+    details: |
+      Foo
 projects:
   title: Projects
   intro: >
