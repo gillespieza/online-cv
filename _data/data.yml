@@ -44,6 +44,28 @@ sidebar:
     - item: Euro-style Boardgames
       link:
 
+  skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: HTML5 and CSS3
+        level: 90%
+
+      - name: Bootstrap
+        level: 85%
+
+      - name: WordPress
+        level: 75%
+
+      - name: SASS
+        level: 50%
+
+      - name: Javascript & jQuery
+        level: 48%
+
+      - name: Photoshop
+        level: 40%
+
 career-profile:
   title: Career Profile
   summary: |
@@ -129,28 +151,6 @@ projects:
     - title: mmpdb
       link: "http://mmpdb.dalkescientific.com/"
       tagline: "This static site was created using Jekyll, with a Bootstrap 4-compatible theme."
-
-skills:
-  title: Skills &amp; Proficiency
-
-  toolset:
-    - name: HTML5 and CSS3
-      level: 90%
-
-    - name: Bootstrap
-      level: 85%
-
-    - name: WordPress
-      level: 75%
-
-    - name: SASS
-      level: 50%
-
-    - name: Javascript & jQuery
-      level: 48%
-
-    - name: Photoshop
-      level: 40%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
