@@ -67,7 +67,22 @@ experience:
     time: 2007 - Present
     company: Salamander Web Media, South Africa
     details: |
-      Foo
+  - role: Freelance Academic Conference Organiser
+    time: 2007 - 2019
+    company: University of Cape Town
+    details: |
+    ? Assisting in the planning and co–ordination of various academic conferences and workshops for the Electron Microscope Unit, of the University of Cape Town. Duties included
+    : - Pre– and post–conference preparation
+      - Liaising with applicants regarding status & completeness of applications
+      - Data entry, maintenence of databases on registration forms, generating reports as needed
+      - Creation of welcome packets for participants
+      - Coordinating the production and printing of resource materials and abstracts distributed at the conference
+      - Obtaining multiple bids from vendors, maintenance of inventory, creating purchase orders and check requests, and tracking shipments and timely payment of vendors
+      - Logistical considerations of visiting international speakers
+      - Organising commercial exhibition
+      - On–site logistics
+      - Creation and distribution of conference advertising literature
+      - Various general office support activities including basic book–keeping and budgetary support, web–site support, handling email queries, etc
 projects:
   title: Projects
   intro: >
@@ -75,7 +90,7 @@ projects:
   assignments:
     - title: BokBus Garden Route Tours
       link: "https://www.bokbus.com"
-      tagline: "This tour company needed a responsive site that allows people to book (and upgrade) their various Garden Route tours based on calendar availability. I built them a responsive WordPress template using Bootstrap 4 and Understrap. The site includes WooCommerce support and a rather complex booking system, translations into German, the use of Advanced Custom Fields for tour information."
+      tagline: "This tour company needed a responsive site that allows people to book (and upgrade) their various Garden Route tours based on calendar availability. I built them a responsive WordPress template using Bootstrap 4 and Understrap. The site includes WooCommerce support and a rather complex booking system, translations into German, and the use of Advanced Custom Fields (AFC) for tour information."
 
     - title: Theatre 4 Youth
       link: "https://www.theatre4youth.co.za"
@@ -105,7 +120,7 @@ skills:
       level: 90%
 
     - name: Bootstrap
-      level: 80%
+      level: 85%
 
     - name: WordPress
       level: 75%
