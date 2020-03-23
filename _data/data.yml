@@ -64,7 +64,7 @@ education:
     details: |
 
 experience:
-  - role: Owner/Freelancer
+  - role: Owner/Freelance Web Developer
     time: 2007 - Present
     company: Salamander Web Media, South Africa
     details: |
@@ -87,6 +87,12 @@ experience:
     company: Care & Cure Medical Publishing
     details: |
         Foo
+
+  - role: Bioinformatics Intern
+    time: 2005 - 2006
+    company: National Bioinformatics Network
+    details: |
+        Internship involving the improvement of skills for further bioinformatics post-graduate study and/or employment. Skills taught included data analytics using Python and R.
 
 projects:
   title: Projects
@@ -122,22 +128,22 @@ skills:
 
   toolset:
     - name: HTML5 and CSS3
-      level: 95%
-
-    - name: Bootstrap
       level: 90%
 
+    - name: Bootstrap
+      level: 80%
+
     - name: WordPress
-      level: 85%
+      level: 75%
 
     - name: SASS
-      level: 70%
+      level: 50%
 
     - name: Javascript & jQuery
-      level: 68%
+      level: 48%
 
     - name: Photoshop
-      level: 50%
+      level: 40%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
