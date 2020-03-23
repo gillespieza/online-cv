@@ -66,8 +66,6 @@ experience:
   - role: Owner/Freelance Web Developer
     time: 2007 - Present
     company: Salamander Web Media, South Africa
-    details: |
-
   - role: Freelance Academic Conference Organiser
     time: 2007 - 2019
     company: University of Cape Town
@@ -96,6 +94,10 @@ projects:
     - title: Theatre 4 Youth
       link: "https://www.theatre4youth.co.za"
       tagline: "This was a really fun WordPress project to work on. This NGO bridges theatre with education, and their site needed several custom post types for Theatre Companies, Theatrical Productions, Schools, and Geographical Areas - modelling a relational database. They needed access control to certain information, and an interactive Google Map showing the location of registered schools and/or Theatre Companies. They also needed front-end submission of theatrical productions for registered users. This is probably one of my most interactive sites."
+
+    - title: MakerStation
+      link: "https://makerstation.co.za/"
+      tagline: "This WordPress site is used by a 'maker space' in Cape Town, South Africa. They required a calendar-based booking system for their tools and various spaces in their workshops, integrated with an IOT-based RFID-access control."
 
     - title: Encounters SA Documentary Film Festival
       link: "https://www.encounters.co.za"
