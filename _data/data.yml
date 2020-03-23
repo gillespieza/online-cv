@@ -87,11 +87,9 @@ experiences:
   - role: Medical Editor and Technical Writer
     time: 2008 - 2012 (part time)
     company: Care & Cure Medical Publishing
-
   - role: IT Manager
     time: 2008 - 2011 (part time)
     company: Out In Africa South African Gay & Lesbian Film Festival
-
   - role: Bioinformatics Intern
     time: 2005 - 2006
     company: National Bioinformatics Network
@@ -99,7 +97,6 @@ experiences:
       Internship involving the improvement of skills for further bioinformatics post-graduate study and/or employment. Skills taught included data analytics using Python and R, relational database design, graph theory, software usability, etc.
 
       The course curriculum is available at https://web.archive.org/web/20060618041606/http://www.nbn.ac.za/Education/courses.html
-
 projects:
   title: Projects
   intro: >
