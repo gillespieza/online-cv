@@ -61,7 +61,7 @@ education:
   - degree: BSc (Hons) in Biochemistry
     university: University of KwaZulu-Natal
     time: 2002
-    details: |
+
 experience:
   - role: Owner/Freelance Web Developer
     time: 2007 - Present
@@ -82,60 +82,3 @@ experience:
       - On–site logistics
       - Creation and distribution of conference advertising literature
       - Various general office support activities including basic book–keeping and budgetary support, web–site support, handling email queries, etc
-projects:
-  title: Projects
-  intro: >
-    These are some of my previous clients. They were mostly small businesses and NGOs, and sadly, not all of these businesses are still in existance. I am happy to provide screenshots of my work for businesses that no longer exist.
-  assignments:
-    - title: BokBus Garden Route Tours
-      link: "https://www.bokbus.com"
-      tagline: "This tour company needed a responsive site that allows people to book (and upgrade) their various Garden Route tours based on calendar availability. I built them a responsive WordPress template using Bootstrap 4 and Understrap. The site includes WooCommerce support and a rather complex booking system, translations into German, and the use of Advanced Custom Fields (AFC) for tour information."
-
-    - title: Theatre 4 Youth
-      link: "https://www.theatre4youth.co.za"
-      tagline: "This was a really fun WordPress project to work on. This NGO bridges theatre with education, and their site needed several custom post types for Theatre Companies, Theatrical Productions, Schools, and Geographical Areas - modelling a relational database. They needed access control to certain information, and an interactive Google Map showing the location of registered schools and/or Theatre Companies. They also needed front-end submission of theatrical productions for registered users. This is probably one of my most interactive sites."
-
-    - title: MakerStation
-      link: "https://makerstation.co.za/"
-      tagline: "This WordPress site is used by a 'maker space' in Cape Town, South Africa. They required a calendar-based booking system for their tools and various spaces in their workshops, integrated with an IOT-based RFID-access control."
-
-    - title: Encounters SA Documentary Film Festival
-      link: "https://www.encounters.co.za"
-      tagline: "A client who requires an annual site redesign. Artwork is provided by an external Graphic Designer, and I implement the design into a responsive WordPress theme. Custom Posts handle the Films, Guests and Guest Appearances. A complex film submission and paypal payment is handled using Gravity Forms."
-
-    - title: Biophysics Workshop
-      link: "https://biophysicsworkshop.co.za/"
-      tagline: "This WordPress site is used by the Centre for Imaging and Analysis, at the University of Cape Town (South Africa), for advertising various courses and workshops. For each course, the design is changed to fit new sponsors and corporate branding requirements. Membership permissions are required for certain sections of the website, and the site includes a student forum."
-
-    - title: chemfp
-      link: "http://chemfp.com/"
-      tagline: "Originally created in WordPress, this site was converted to a static Jekyll site."
-
-    - title: mmpdb
-      link: "http://mmpdb.dalkescientific.com/"
-      tagline: "This static site was created using Jekyll, with a Bootstrap 4-compatible theme."
-
-skills:
-  title: Skills &amp; Proficiency
-
-  toolset:
-    - name: HTML5 and CSS3
-      level: 90%
-
-    - name: Bootstrap
-      level: 85%
-
-    - name: WordPress
-      level: 75%
-
-    - name: SASS
-      level: 50%
-
-    - name: Javascript & jQuery
-      level: 48%
-
-    - name: Photoshop
-      level: 40%
-
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
