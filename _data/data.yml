@@ -47,13 +47,15 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I built my first website in 2006, and I have loved web development ever since. I have a passion for usability, and for creating functional, usable websites that are easy to use on the client admin end. 
+    I built my first website in 2006, and I have loved web development ever since. I have a passion for usability, and for creating functional, usable websites that are easy to use on the client admin end.
 
-    I started my own WordPress/PHP web development business in 2007, and most of my clients have been NGOs or small businesses that have all come to me through word-of-mouth.
+    I started my own WordPress/PHP web development business in 2007, in South Africa, and most of my clients were NGOs or small businesses that came to me through word-of-mouth.
 
-    Currently, I use Twitter Bootstrap 4+ as a framework for WordPress theme front ends, and create or customize plugins according to client needs. I use SCSS/SASS, Git, HTML5, CSS3, PHP and JQuery on a daily basis. 
+    In 2019, I moved to Ireland, and took a position with Appiercom, who were subsequently bought out by Ingenium TC.
 
-    I also dabble in online advertising with Google AdWords. 
+    Currently, I use Twitter Bootstrap 4+ and 5+ as a framework for WordPress theme front-ends, and create or customize plugins according to client needs. I use SCSS/SASS, Git, HTML5, CSS3, PHP and JQuery on a daily basis.
+
+    I also dabble in online advertising with Google AdWords.
 
     Although my formal education was in Biochemistry (Immunology), I've discovered a love for web programming and data analytics (probably through my experience of Bioinformatics).
 
@@ -63,8 +65,13 @@ education:
     time: 2002
 
 experiences:
+  - role: Senior Web Developer
+    time: 2020 - Present
+    company: Appiercom, Ireland
+    details: |
+      I design and implement beautiful WordPress websites, using either Twitter Bootstrap 4+, or a page builder such as Divi, as per client request. I also create custom plugins to meet specific customer needs, and conduct regular maintenance and optimisation on our client websites.
   - role: Owner/Freelance Web Developer
-    time: 2007 - Present
+    time: 2007 - 2019
     company: Salamander Web Media, South Africa
     details: |
       I help clients in all stages of their website needs, from registering and hosting a domain name, to installing and configuring WordPress. That's only a small part of my daily activity, though. My main activities are creating WordPress themes (currently using Bootstrap 4+ as a framework), and creating custom plugins to address specific client problems.
@@ -102,17 +109,25 @@ projects:
   intro: >
     These are some of my previous clients. They were mostly small businesses and NGOs, and sadly, not all of these businesses are still in existance. I am happy to provide screenshots of my work for businesses that no longer exist.
   assignments:
+    - title: Dochas Autism
+      link: "https://dochasautism.ie"
+      tagline: "This was a pro-bono project for a local charity that supports children with autism. The site was a WordPress site using the Divi page builder, and incorporated a complex online membership application, and an eCommerce solution that allows users to donate an amount of their choice, as either a once-off donation or as a recurring donation. Plugins included an automated backup solution, caching with CloudFlare, image and script optimisation and SSL support."
+
+    - title: Ingenium Training and Consulting
+      link: "https://ingeniumtc.com"
+      tagline: "This was a multi-company project, with external consultants engaged for both SEO optimsation of the content, and a graphic design company for the overall look. The site was created in WordPress and implemented using the Divi page builder. Hosting was set up to include development, staging and production environments."
+
+    - title: My Pathway Journey
+      link: "https://mypathwayjourney.com"
+      tagline: "This project incorporated several custom plugins, including a custom-built psychometric test for secondary school students, and integration with an external Learning Management System (LMS) using their published REST API. An eCommerce solution was also implemented, using WooCommerce, WooCommerce Memberships and WooCommerce Subscriptions."
+
     - title: Theatre 4 Youth
       link: "https://www.theatre4youth.co.za"
-      tagline: "This was a really fun WordPress project to work on. This NGO bridges theatre with education, and their site needed several custom post types for Theatre Companies, Theatrical Productions, Schools, and Geographical Areas - modelling a relational database. They needed access control to certain information, and an interactive Google Map showing the location of registered schools and/or Theatre Companies. They also needed front-end submission of theatrical productions for registered users. This is probably one of my most interactive sites. It was built using Bootstrap 3+."
+      tagline: "This was a really fun WordPress project to work on. This NGO bridges theatre with education, and their site needed several custom post types for Theatre Companies, Theatrical Productions, Schools, and Geographical Areas - modelling a relational database. They needed access control to certain information, and an interactive Google Map showing the location of registered schools and/or Theatre Companies. They also needed front-end submission of theatrical productions for registered users. This is probably one of my most interactive sites. It was built using Bootstrap 3+, and later upgraded to Bootstrap 4+."
 
     - title: BokBus Garden Route Tours
       link: "https://www.bokbus.com"
       tagline: "This tour company needed a responsive site that allows people to book (and upgrade) their various Garden Route tours based on calendar availability. I built them a responsive WordPress template using Bootstrap 4+ and Understrap. The site includes WooCommerce support and a rather complex booking system, translations into German, and the use of Advanced Custom Fields (AFC) for tour information."
-
-    - title: MakerStation
-      link: "https://makerstation.co.za/"
-      tagline: "This WordPress site is used by a 'maker space' in Cape Town, South Africa. They required a calendar-based booking system for their tools and various spaces in their workshops, integrated with an IOT-based RFID-access control."
 
     - title: Encounters SA Documentary Film Festival
       link: "https://www.encounters.co.za"
