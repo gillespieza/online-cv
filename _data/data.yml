@@ -47,7 +47,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I built my first website in 2006, and I have loved web development ever since. I have a passion for usability, and for creating functional, usable websites that are easy to use on the client admin end.
+    I built my first website in 2006, and I have loved web development ever since. I have a passion for accessibility, and for creating functional, attractive websites that are easy to use on the client admin end.
 
     I started my own WordPress/PHP web development business in 2007, in South Africa, and most of my clients were NGOs or small businesses that came to me through word-of-mouth.
 
@@ -107,7 +107,7 @@ experiences:
 projects:
   title: Projects
   intro: >
-    These are some of my previous clients. They were mostly small businesses and NGOs, and sadly, not all of these businesses are still in existance. I am happy to provide screenshots of my work for businesses that no longer exist.
+    These are some of my previous clients. They were mostly small businesses and NGOs, and sadly, not all of these businesses are still in existence. I am happy to provide screenshots of my work for businesses that no longer exist.
   assignments:
     - title: Dochas Autism
       link: "https://dochasautism.ie"
