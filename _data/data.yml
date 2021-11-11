@@ -53,9 +53,7 @@ career-profile:
 
     In 2019, I moved to Ireland, and took a position with Appiercom, who were subsequently bought out by Ingenium TC.
 
-    Currently, I use Twitter Bootstrap 4+ and 5+ as a framework for WordPress theme front-ends, and create or customize plugins according to client needs. I use SCSS/SASS, Git, HTML5, CSS3, PHP and JQuery on a daily basis.
-
-    I also dabble in online advertising with Google AdWords.
+    My current stack includes WordPress (both front and back-end, creating both themes and bespoke plugins), Twitter Bootstrap 4+, Divi and Genesis Pro as frameworks for WordPress themes, the WordPress API, various third-party REST APIs, SCSS/SASS, Git, HTML5, CSS3, PHP, Javascript/ECMAScript 6 and JQuery, MySQL.
 
     Although my formal education was in Biochemistry (Immunology), I've discovered a love for web programming and data analytics (probably through my experience of Bioinformatics).
 
@@ -67,9 +65,9 @@ education:
 experiences:
   - role: Senior Web Developer
     time: 2020 - Present
-    company: Appiercom, Ireland
+    company: Appiercom/IngeniumTC, Ireland
     details: |
-      I design and implement beautiful WordPress websites, using either Twitter Bootstrap 4+, or a page builder such as Divi, as per client request. I also create custom plugins to meet specific customer needs, and conduct regular maintenance and optimisation on our client websites.
+      I design and implement beautiful WordPress websites, using either Twitter Bootstrap 4+, or a page builder such as Divi, or the Genesis Pro Framework, as per client requirements. I also create custom plugins to meet specific customer needs, and conduct regular maintenance and optimisation on our client websites.
   - role: Owner/Freelance Web Developer
     time: 2007 - 2019
     company: Salamander Web Media, South Africa
@@ -109,11 +107,11 @@ projects:
   intro: >
     These are some of my previous clients. They were mostly small businesses and NGOs, and sadly, not all of these businesses are still in existence. I am happy to provide screenshots of my work for businesses that no longer exist.
   assignments:
-    - title: Dochas Autism
+    - title: Dochas Autism: http://www.dochasautism.ie/
       link: "https://dochasautism.ie"
       tagline: "This was a pro-bono project for a local charity that supports children with autism. The site was a WordPress site using the Divi page builder, and incorporated a complex online membership application, and an eCommerce solution that allows users to donate an amount of their choice, as either a once-off donation or as a recurring donation. Plugins included an automated backup solution, caching with CloudFlare, image and script optimisation and SSL support."
 
-    - title: Ingenium Training and Consulting
+    - title: Ingenium Training and Consulting: https://www.ingeniumtc.com/
       link: "https://ingeniumtc.com"
       tagline: "This was a multi-company project, with external consultants engaged for both SEO optimsation of the content, and a graphic design company for the overall look. The site was created in WordPress and implemented using the Divi page builder. Hosting was set up to include development, staging and production environments."
 
@@ -144,6 +142,13 @@ projects:
     - title: mmpdb
       link: "http://mmpdb.dalkescientific.com/"
       tagline: "This static site was created using Jekyll, with a Bootstrap 4-compatible theme."
+
+    - title: https://www.thegreymattersnetwork.com/
+      link: "https://www.thegreymattersnetwork.com/"
+
+    - title: https://detailfactory.ie/
+      link: "https://detailfactory.ie/"
+
 
 skills:
   title: Skills &amp; Proficiency
