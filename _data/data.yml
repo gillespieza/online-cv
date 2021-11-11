@@ -107,39 +107,35 @@ projects:
   intro: >
     These are some of my previous clients. They were mostly small businesses and NGOs, and sadly, not all of these businesses are still in existence. I am happy to provide screenshots of my work for businesses that no longer exist.
   assignments:
-    - title: Dochas Autism: http://www.dochasautism.ie/
+    - title: Dochas Autism - http://www.dochasautism.ie/
       link: "https://dochasautism.ie"
       tagline: "This was a pro-bono project for a local charity that supports children with autism. The site was a WordPress site using the Divi page builder, and incorporated a complex online membership application, and an eCommerce solution that allows users to donate an amount of their choice, as either a once-off donation or as a recurring donation. Plugins included an automated backup solution, caching with CloudFlare, image and script optimisation and SSL support."
 
-    - title: Ingenium Training and Consulting: https://www.ingeniumtc.com/
+    - title: Ingenium Training and Consulting - https://www.ingeniumtc.com/
       link: "https://ingeniumtc.com"
       tagline: "This was a multi-company project, with external consultants engaged for both SEO optimsation of the content, and a graphic design company for the overall look. The site was created in WordPress and implemented using the Divi page builder. Hosting was set up to include development, staging and production environments."
 
-    - title: My Pathway Journey
+    - title: My Pathway Journey - https://mypathwayjourney.com/
       link: "https://mypathwayjourney.com"
       tagline: "This project incorporated several custom plugins, including a custom-built psychometric test for secondary school students, and integration with an external Learning Management System (LMS) using their published REST API. An eCommerce solution was also implemented, using WooCommerce, WooCommerce Memberships and WooCommerce Subscriptions."
 
-    - title: Theatre 4 Youth
+    - title: Theatre 4 Youth - https://www.theatre4youth.co.za
       link: "https://www.theatre4youth.co.za"
       tagline: "This was a really fun WordPress project to work on. This NGO bridges theatre with education, and their site needed several custom post types for Theatre Companies, Theatrical Productions, Schools, and Geographical Areas - modelling a relational database. They needed access control to certain information, and an interactive Google Map showing the location of registered schools and/or Theatre Companies. They also needed front-end submission of theatrical productions for registered users. This is probably one of my most interactive sites. It was built using Bootstrap 3+, and later upgraded to Bootstrap 4+."
 
-    - title: BokBus Garden Route Tours
-      link: "https://www.bokbus.com"
-      tagline: "This tour company needed a responsive site that allows people to book (and upgrade) their various Garden Route tours based on calendar availability. I built them a responsive WordPress template using Bootstrap 4+ and Understrap. The site includes WooCommerce support and a rather complex booking system, translations into German, and the use of Advanced Custom Fields (AFC) for tour information."
-
-    - title: Encounters SA Documentary Film Festival
+    - title: Encounters SA Documentary Film Festival - https://www.encounters.co.za
       link: "https://www.encounters.co.za"
-      tagline: "A client who requires an annual site redesign. Artwork is provided by an external Graphic Designer, and I implement the design into a responsive WordPress theme. Custom Posts handle the Films, Guests and Guest Appearances. A complex film submission and paypal payment is handled using Gravity Forms."
+      tagline: "A client who requires an annual site redesign. Artwork is provided by an external Graphic Designer, and I implement the design into a responsive WordPress theme. Custom Posts handle the Films, Guests and Guest Appearances. A complex film submission and paypal payment is handled using Gravity Forms. See http://archives.encounters.co.za for years 2013-2021"
 
-    - title: Biophysics Workshop
+    - title: Biophysics Workshop - https://biophysicsworkshop.co.za
       link: "https://biophysicsworkshop.co.za/"
       tagline: "This WordPress site is used by the Centre for Imaging and Analysis, at the University of Cape Town (South Africa), for advertising various courses and workshops. For each course, the design is changed to fit new sponsors and corporate branding requirements. Membership permissions are required for certain sections of the website, and the site includes a student forum."
 
-    - title: chemfp
+    - title: chemfp - http://chemfp.com
       link: "http://chemfp.com/"
       tagline: "Originally created in WordPress, this site was converted to a static Jekyll site."
 
-    - title: mmpdb
+    - title: mmpdb - http://mmpdb.dalkescientific.com
       link: "http://mmpdb.dalkescientific.com/"
       tagline: "This static site was created using Jekyll, with a Bootstrap 4-compatible theme."
 
