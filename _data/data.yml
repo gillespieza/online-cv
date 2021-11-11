@@ -102,8 +102,41 @@ experiences:
       Internship involving the improvement of skills for further bioinformatics post-graduate study and/or employment. Skills taught included data analytics using Python and R, relational database design, graph theory, software usability, etc.
 
       The course curriculum is available at https://web.archive.org/web/20060618041606/http://www.nbn.ac.za/Education/courses.html
+skills:
+  title: Skills &amp; Proficiencies
+
+  toolset:
+    - name: HTML5 and CSS3
+      level: 90%
+
+    - name: Bootstrap (3+ and 4+)
+      level: 85%
+
+    - name: WordPress
+      level: 80%
+
+    - name: PHP
+      level: 75%
+
+    - name: REST APIs
+      level: 60%
+
+    - name: SCSS/SASS
+      level: 50%
+
+    - name: SQL
+      level: 50%
+
+    - name: Javascript (ES6) & jQuery
+      level: 48%
+
+    - name: Git
+      level: 50%
+
+    - name: Photoshop
+      level: 40%
 projects:
-  title: Projects
+  title: Projects/Portfolio
   intro: >
     These are some of my previous clients. They were mostly small businesses and NGOs, and sadly, not all of these businesses are still in existence. I am happy to provide screenshots of my work for businesses that no longer exist.
   assignments:
@@ -151,41 +184,6 @@ projects:
     - title: https://ergosportmodels.com/
       link: "https://ergosportmodels.com/"
 
-
-
-skills:
-  title: Skills &amp; Proficiencies
-
-  toolset:
-    - name: HTML5 and CSS3
-      level: 90%
-
-    - name: Bootstrap (3+ and 4+)
-      level: 85%
-
-    - name: WordPress
-      level: 80%
-
-    - name: PHP
-      level: 75%
-
-    - name: REST APIs
-      level: 60%
-
-    - name: SCSS/SASS
-      level: 50%
-
-    - name: SQL
-      level: 50%
-
-    - name: Javascript (ES6) & jQuery
-      level: 48%
-
-    - name: Git
-      level: 50%
-
-    - name: Photoshop
-      level: 40%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
