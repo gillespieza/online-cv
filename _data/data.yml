@@ -113,7 +113,7 @@ projects:
 
     - title: Ingenium Training and Consulting - https://www.ingeniumtc.com/
       link: "https://ingeniumtc.com"
-      tagline: "This was a multi-company project, with external consultants engaged for both SEO optimsation of the content, and a graphic design company for the overall look. The site was created in WordPress and implemented using the Divi page builder. Hosting was set up to include development, staging and production environments."
+      tagline: "This was a multi-company project, with external consultants engaged for both SEO optimisation of the text content, and a graphic design company for the overall look. The site was created in WordPress and implemented using the Divi page builder. Hosting was set up to include development, staging and production environments."
 
     - title: My Pathway Journey - https://mypathwayjourney.com/
       link: "https://mypathwayjourney.com"
@@ -142,8 +142,15 @@ projects:
     - title: https://www.thegreymattersnetwork.com/
       link: "https://www.thegreymattersnetwork.com/"
 
+    - title: https://grahamdominy.co.za/
+      link: "https://grahamdominy.co.za/"
+
     - title: https://detailfactory.ie/
       link: "https://detailfactory.ie/"
+
+    - title: https://ergosportmodels.com/
+      link: "https://ergosportmodels.com/"
+
 
 
 skills:
@@ -153,17 +160,29 @@ skills:
     - name: HTML5 and CSS3
       level: 90%
 
-    - name: Bootstrap
+    - name: Bootstrap (3+ and 4+)
       level: 85%
 
     - name: WordPress
+      level: 80%
+
+    - name: PHP
       level: 75%
 
-    - name: SASS
+    - name: REST APIs
+      level: 60%
+
+    - name: SCSS/SASS
       level: 50%
 
-    - name: Javascript & jQuery
+    - name: SQL
+      level: 50%
+
+    - name: Javascript (ES6) & jQuery
       level: 48%
+
+    - name: Git
+      level: 50%
 
     - name: Photoshop
       level: 40%
