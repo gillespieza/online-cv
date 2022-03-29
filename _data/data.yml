@@ -53,7 +53,7 @@ career-profile:
 
     In 2019, I moved to Ireland, and took a position with Appiercom, who were subsequently bought out by Ingenium TC.
 
-    My current stack includes WordPress (both front and back-end, creating both themes and bespoke plugins), Twitter Bootstrap 4+, Divi and Genesis Pro as frameworks for WordPress themes, the WordPress API, various third-party REST APIs, SCSS/SASS, Git, HTML5, CSS3, PHP, Javascript/ECMAScript 6 and JQuery, MySQL.
+    My current tech-stack includes WordPress (both front and back-end, creating both themes and bespoke plugins written in PHP and JavaScript), Twitter Bootstrap 3+ and 4+, pagebuilders such as Divi and frameworks such as Genesis Pro for WordPress themes, the WordPress REST API, various third-party REST APIs, SCSS/SASS, Git, HTML5, CSS3, PHP, Javascript/ECMAScript 6 and JQuery, MySQL.
 
     Although my formal education was in Biochemistry (Immunology), I've discovered a love for web programming and data analytics (probably through my experience of Bioinformatics).
 
@@ -109,26 +109,41 @@ skills:
     - name: HTML5 and CSS3
       level: 90%
 
-    - name: Bootstrap (3+ and 4+)
+    - name: WordPress
       level: 85%
 
-    - name: WordPress
-      level: 80%
+    - name: eCommerce/WooCommerce
+      level: 85%
+
+    - name: Bootstrap (3+ and 4+)
+      level: 85%
 
     - name: PHP
       level: 75%
 
+    - name: cPanel/Plesk/DNS Management
+      level: 75%
+
+    - name: SSL Certificate Management
+      level: 70%
+
     - name: REST APIs
       level: 60%
+
+    - name: WordPress Pagebuilders (eg Divi, Elementor)
+      level: 60%
+
+    - name: Javascript (ES6) & jQuery
+      level: 55%
+
+    - name: SEO Tools (Google Analytics, Search Console, Google Business)
+      level: 55%
 
     - name: SCSS/SASS
       level: 50%
 
     - name: SQL
       level: 50%
-
-    - name: Javascript (ES6) & jQuery
-      level: 48%
 
     - name: Git
       level: 50%
