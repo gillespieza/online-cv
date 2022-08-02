@@ -12,7 +12,7 @@ sidebar:
   avatar: web_profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: dominy.amanda@gmail.com
+  email: gillespie.amanda@gmail.com
   phone: +353 (0)87 717 3924
   website: #do not add http://
   linkedin: adominy
@@ -32,7 +32,7 @@ sidebar:
       level: Conversational
 
   interests:
-    - item: Dog Training
+    - item: Positive Reinforcement Dog Training
       link:
 
     - item: Textile Crafts
@@ -44,18 +44,21 @@ sidebar:
     - item: Euro-style Boardgames
       link:
 
+    - item: Wine (especially red)
+      link:
+
 career-profile:
   title: Career Profile
   summary: |
-    I built my first website in 2006, and I have loved web development ever since. I have a passion for accessibility, and for creating functional, attractive websites that are easy to use on the client admin end.
+    I built my first website in 2006, and I have loved web development ever since. I am passionate about accessibility, and creating functional, attractive websites that are easy for my clients to use.
 
-    I started my own WordPress/PHP web development business in 2007, in South Africa, and most of my clients were NGOs or small businesses that came to me through word-of-mouth.
+    I started my own WordPress business in 2007, in South Africa, and most of my clients were NGOs or small businesses that came to me through word-of-mouth.
 
     In 2019, I moved to Ireland, and took a position with Appiercom, who were subsequently bought out by Ingenium TC.
 
-    My current tech-stack includes WordPress (both front and back-end, creating both themes and bespoke plugins written in PHP and JavaScript), Twitter Bootstrap 3+ and 4+, pagebuilders such as Divi and frameworks such as Genesis Pro for WordPress themes, the WordPress REST API, various third-party REST APIs, SCSS/SASS, Git, HTML5, CSS3, PHP, Javascript/ECMAScript 6 and JQuery, MySQL.
+    As a freelance business owner and senior WordPress developer, my role has been wide-ranging and diverse, but ultimately, I am responsible for the successful launch of my clients' websites. I am involved in every stage of a web project, from start to finish, including taking client specifications, conducting user research, managing stakeholder engagement, developing and implementing a solution for the client's specific requirements, designing something beautiful, conducting post-launch data analysis, recommending SEO optimisations and marketing improvements, and monitoring for security and compliance issues. My role also included creating and managing project timelines, contributing to budgets/quotes, and writing tender applications.
 
-    Although my formal education was in Biochemistry (Immunology), I've discovered a love for web programming and data analytics (probably through my experience of Bioinformatics).
+    My current tech-stack includes WordPress (both front and back-end, creating both themes and bespoke plugins written with PHP, HTML5, CSS3 and Javascript/ECMAScript 6 and JQuery), Twitter Bootstrap 3+ and 4+, pagebuilders such as Divi and frameworks such as Genesis Pro for WordPress themes, the WordPress REST API, various third-party REST APIs, SCSS/SASS, Git, and MySQL. Project management is conducted via Jira.
 
 education:
   - degree: BSc (Hons) in Biochemistry
@@ -67,31 +70,60 @@ experiences:
     time: 2020 - Present
     company: Appiercom/IngeniumTC, Ireland
     details: |
-      I design and implement beautiful WordPress websites, using either Twitter Bootstrap 4+, or a page builder such as Divi, or the Genesis Pro Framework, as per client requirements. I also create custom plugins to meet specific customer needs, and conduct regular maintenance and optimisation on our client websites.
+      I design and implement beautiful WordPress websites, using either Twitter Bootstrap 4+, or a page builder such as Divi, or the Genesis Pro Framework, as per client requirements. I also create custom plugins to meet specific customer needs, and conduct regular maintenance and optimisation on our client websites. My duties include:
+      - writing tender applications for public service requests
+      - taking client specifications
+      - conducting client onboarding workshops
+      - conducting user research and user roadmapping
+      - project management through Jira and Excel
+      - data analysis through Google Analytics and other platforms
+      - cross-team communication with marketing, legal, finance and development teams
+      - SEO optimisation, site maintenance
+      - ongoing site refinement
+      - ongoing customer support
+      - domain name registration and hosting
+      - installation, configuration and optimisation of WordPress
+      - writing customised WordPress child themes
+      - writing bespoke WordPress plugins where existing solutions are insufficient
+      - version control using GitHub
+      - DNS management, including CloudFlare and email (DKIM, SPF) records
+
   - role: Owner/Freelance Web Developer
     time: 2007 - 2019
     company: Salamander Web Media, South Africa
     details: |
-      I help clients in all stages of their website needs, from registering and hosting a domain name, to installing and configuring WordPress. That's only a small part of my daily activity, though. My main activities are creating WordPress themes (currently using Bootstrap 4+ as a framework), and creating custom plugins to address specific client problems.
+      I help clients in all stages of their website needs, from registering and hosting a domain name, to installing and configuring WordPress. That's only a small part of my daily activity, though. My main activities are creating WordPress themes (currently using Bootstrap 4+ as a framework), and creating custom plugins to address specific client problems. Other tasks include:
+      - taking client specifications
+      - conducting user research and user roadmapping
+      - data analysis through Google Analytics and other platforms
+      - ongoing customer support
+      - SEO optimisation, site maintenance
+      - domain name registration and hosting
+      - installation, configuration and optimisation of WordPress
+      - writing customised WordPress child themes
+      - writing bespoke WordPress plugins where existing solutions are insufficient
+      - DNS management, including CloudFlare and email (DKIM, SPF) records
   - role: Freelance Academic Conference Organiser
     time: 2007 - 2019
     company: University of Cape Town
     details: |
-      Assisting in the planning and co–ordination of various academic conferences and workshops for the Electron Microscope Unit, of the University of Cape Town. Duties included
-      - Pre– and post–conference preparation
-      - Liaising with applicants regarding status & completeness of applications
-      - Data entry, maintenence of databases on registration forms, generating reports as needed
-      - Creation of welcome packets for participants
-      - Coordinating the production and printing of resource materials and abstracts distributed at the conference
+      Planned and co–ordinated multiple academic conferences and workshops for the Electron Microscope Unit (University of Cape Town, South Africa). Duties included:
+      - Creation of a conference website with online registration and abstract submission
       - Obtaining multiple bids from vendors, maintenance of inventory, creating purchase orders and check requests, and tracking shipments and timely payment of vendors
       - Logistical considerations of visiting international speakers
-      - Organising commercial exhibition
+      - Organising commercial exhibitions
+      - Liaising with applicants regarding status & completeness of applications
+      - Data entry, maintenance of databases on registration forms, generating reports as needed
+      - Creation of welcome packets for participants
+      - Coordinating the production and printing of resource materials and abstracts distributed at the conference
       - On–site logistics
       - Creation and distribution of conference advertising literature
       - Various general office support activities including basic book–keeping and budgetary support, web–site support, handling email queries, etc
   - role: Medical Editor and Technical Writer
     time: 2008 - 2012 (part time)
     company: Care & Cure Medical Publishing
+    details:
+    In this position, I was responsible for creating concise (4 to 6 page) medical newsletters to be distributed to doctors (both General Practice and specialists) by pharmaceutical sales representatives. I was provided technical briefs by a variety of international pharmaceutical companies, and each newsletter was specific to a particular drug product and a particular topic (for example: Post-operative pain management following knee or hip replacement in osteoarthritis, using COX-2 inhibitors for pain control). I would source peer-reviewed journal articles that reflected the sponsoring product favourably, correct any grammar or difficult-to-read sentences, and re-write various abstracts to comply with various countries' medical compliance regulations. These newsletters would be used by doctors for Continual Professional Development (CPD) credits, and by pharmaceutical sales representatives as sales tools.
   - role: IT Manager
     time: 2008 - 2011 (part time)
     company: Out In Africa South African Gay & Lesbian Film Festival
@@ -198,7 +230,7 @@ projects:
 
     - title: https://ergosportmodels.com/
       link: "https://ergosportmodels.com/"
-      
+
     - title: https://www.yangotrack.com/
       link: "https://www.yangotrack.com/"
 
