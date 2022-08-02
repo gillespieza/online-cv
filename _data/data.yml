@@ -207,7 +207,7 @@ projects:
   intro: >
     These are some of my previous clients. They were mostly small businesses and NGOs, and sadly, not all of these businesses are still in existence (especially after Covid). I am happy to provide screenshots of my work for businesses that no longer exist.
   assignments:
-    - title: **Dochas Autism** - http://www.dochasautism.ie/
+    - title: Dochas Autism - http://www.dochasautism.ie/
       link: "https://dochasautism.ie"
       tagline: "This was a pro-bono project for a local charity that supports children with autism. The site was a WordPress site using the Divi page builder, and incorporated a complex online membership application, and an eCommerce solution that allows users to donate an amount of their choice, as either a once-off donation or as a recurring donation. Plugins included an automated backup solution, caching with CloudFlare, image and script optimisation and SSL support."
 
