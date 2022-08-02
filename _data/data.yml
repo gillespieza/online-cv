@@ -128,7 +128,7 @@ experiences:
     time: 2008 - 2012 (part time)
     company: Care & Cure Medical Publishing
     details:
-    In this position, I was responsible for creating concise (4 to 6 page) medical newsletters to be distributed to doctors (both General Practice and specialists) by pharmaceutical sales representatives. I was provided technical briefs by a variety of international pharmaceutical companies, and each newsletter was specific to a particular drug product and a particular topic (for example, *Post-operative pain management following knee or hip replacement in osteoarthritis, using COX-2 inhibitors for pain control*). I would source peer-reviewed journal articles that reflected the sponsoring product favourably, correct any grammar or difficult-to-read sentences, and re-write various abstracts to comply with various countries' medical compliance regulations. These newsletters would be used by doctors for Continual Professional Development (CPD) credits, and by pharmaceutical sales representatives as sales tools.
+    In this position, I was responsible for creating concise (4 to 6 page) medical newsletters to be distributed to doctors (both General Practice and specialists) by pharmaceutical sales representatives. I was provided technical briefs by a variety of international pharmaceutical companies, and each newsletter was specific to a particular drug product and a particular topic (for example, Post-operative pain management following knee or hip replacement in osteoarthritis, using COX-2 inhibitors for pain control). I would source peer-reviewed journal articles that reflected the sponsoring product favourably, correct any grammar or difficult-to-read sentences, and re-write various abstracts to comply with various countries' medical compliance regulations. These newsletters would be used by doctors for Continual Professional Development (CPD) credits, and by pharmaceutical sales representatives as sales tools.
   - role: IT Manager
     time: 2008 - 2011 (part time)
     company: Out In Africa South African Gay & Lesbian Film Festival
@@ -136,12 +136,14 @@ experiences:
     time: 2005 - 2006
     company: National Bioinformatics Network
     details: |
-      Internship involving the improvement of skills for further bioinformatics post-graduate study and/or employment. Skills taught included data analytics using Python and R, relational database design, graph theory, software usability, etc. The initiative is no longer running, but the course curriculum can be seen at https://web.archive.org/web/20060618041606/http://www.nbn.ac.za/Education/courses.html
-      Modules included -
+      Internship involving the improvement of skills for further bioinformatics post-graduate study and/or employment. Skills taught included data analytics using Python and R, relational database design, graph theory, software usability, etc. Modules included -
       - Introductory Python
       - Writing and Ethics
       - Linux
       - Biological Databases
+      - Hardware and Networking
+      - Genomics
+      The initiative is no longer running, but full descriptions of the course curriculum can be seen at https://web.archive.org/web/20060618041606/http://www.nbn.ac.za/Education/courses.html
 
 skills:
   title: Skills &amp; Proficiencies
