@@ -56,7 +56,7 @@ career-profile:
 
     In 2019, I moved to Ireland, and took a position with Appiercom, who were subsequently bought out by Ingenium TC.
 
-    As a freelance business owner and senior WordPress developer, my role has been wide-ranging and diverse, but ultimately, I am responsible for the successful launch of my clients' websites. I am involved in every stage of a web project, from start to finish, including taking client specifications, conducting user research, managing stakeholder engagement, developing and implementing a solution for the client's specific requirements, designing something beautiful, conducting post-launch data analysis, recommending SEO optimisations and marketing improvements, and monitoring for security and compliance issues. My role also included creating and managing project timelines, contributing to budgets/quotes, and writing tender applications.
+    As a freelance business owner and senior WordPress developer, my role has been wide-ranging and diverse, but ultimately, I am responsible for the successful launch of my clients' websites. I am involved in every stage of a web project, from start to finish, including taking client specifications, conducting user research, managing stakeholder engagement, developing and implementing a solution for the client's specific requirements, designing something beautiful, conducting post-launch data analysis, recommending SEO optimisations and marketing improvements, monitoring for security and compliance issues, and making strategic recommendations to stakeholders. My role also included creating and managing project timelines, managing project scope, prioritising features for development, contributing to budgets/quotes, and writing tender applications.
 
     My current tech-stack includes WordPress (both front and back-end, creating both themes and bespoke plugins written with PHP, HTML5, CSS3 and Javascript/ECMAScript 6 and JQuery), Twitter Bootstrap 3+ and 4+, pagebuilders such as Divi and frameworks such as Genesis Pro for WordPress themes, the WordPress REST API, various third-party REST APIs, SCSS/SASS, Git, and MySQL. Project management is conducted via Jira.
 
@@ -66,33 +66,38 @@ education:
     time: 2002
 
 experiences:
-  - role: Senior Web Developer
+  - role: Senior WordPress Developer
     time: 2020 - Present
-    company: Appiercom/IngeniumTC, Ireland
-    details: |
-      I design and implement beautiful WordPress websites, using either Twitter Bootstrap 4+, or a page builder such as Divi, or the Genesis Pro Framework, as per client requirements. I also create custom plugins to meet specific customer needs, and conduct regular maintenance and optimisation on our client websites. My duties include:
+    company: Appiercom/Ingenium, Ireland
+    details:
+      Note: Appiercom was bought out by Ingenium in early 2021, but I list them here as one job, because from my perspective, the only thing that changed was the name printed on the payslip. Everything else (job, location, team), stayed the same following the acquisition.
+      Responsible for maintenance of 22 websites, including the successful launch of 9 of those.
+      I design and implement beautiful WordPress websites, using either Twitter Bootstrap 4+, a page builder such as Divi, or the Genesis Pro Framework, as per client requirements. I am responsible for concept-to-completion of new web sites. I also create custom plugins to meet specific customer needs, and conduct regular maintenance and optimisation on our client websites. My duties include:
       - writing tender applications for public service requests
       - taking client specifications
       - conducting client onboarding workshops
       - conducting user research and user roadmapping
       - project management through Jira and Excel
-      - data analysis through Google Analytics and other platforms
+      - prioritising features for development within a specified timeline
+      - managing project scope
+      - reporting project status and updates to stakeholders
+      - data analysis through Google Analytics, spreadsheets (Google Sheets, Excel) and other platforms to identify potential problems and solutions
       - cross-team communication with marketing, legal, finance and development teams
-      - SEO optimisation, site maintenance
-      - ongoing site refinement
-      - ongoing customer support
+      - SEO optimisation
+      - ongoing site maintenance and refinement
+      - ongoing customer support using Zoho Desk customer service ticketing system
       - domain name registration and hosting
       - installation, configuration and optimisation of WordPress
       - writing customised WordPress child themes
       - writing bespoke WordPress plugins where existing solutions are insufficient
-      - version control using GitHub
+      - version control using GitHub and SharePoint
       - DNS management, including CloudFlare and email (DKIM, SPF) records
 
   - role: Owner/Freelance Web Developer
     time: 2007 - 2019
     company: Salamander Web Media, South Africa
-    details: |
-      I help clients in all stages of their website needs, from registering and hosting a domain name, to installing and configuring WordPress. That's only a small part of my daily activity, though. My main activities are creating WordPress themes (currently using Bootstrap 4+ as a framework), and creating custom plugins to address specific client problems. Other tasks include:
+    details:
+      Responsible for successfully launching more than 30 websites, as a freelancer. I helped clients in all stages of their website needs, from registering and hosting a domain name, to installing and configuring WordPress. My main activities were creating WordPress themes (using Bootstrap 4+ as a framework), and creating custom plugins to address specific client problems. Other tasks included:
       - taking client specifications
       - conducting user research and user roadmapping
       - data analysis through Google Analytics and other platforms
@@ -185,7 +190,7 @@ skills:
 projects:
   title: Projects/Portfolio
   intro: >
-    These are some of my previous clients. They were mostly small businesses and NGOs, and sadly, not all of these businesses are still in existence. I am happy to provide screenshots of my work for businesses that no longer exist.
+    These are some of my previous clients. They were mostly small businesses and NGOs, and sadly, not all of these businesses are still in existence (especially after Covid). I am happy to provide screenshots of my work for businesses that no longer exist.
   assignments:
     - title: Dochas Autism - http://www.dochasautism.ie/
       link: "https://dochasautism.ie"
