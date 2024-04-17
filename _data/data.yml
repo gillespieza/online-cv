@@ -31,6 +31,9 @@ sidebar:
     - idiom: Afrikaans
       level: Conversational
 
+    - idiom: French
+      level: Survival
+
   interests:
     - item: Positive Reinforcement Dog Training
       link:
@@ -44,13 +47,10 @@ sidebar:
     - item: Euro-style Boardgames
       link:
 
-    - item: Wine (especially red)
-      link:
-
 career-profile:
   title: Career Profile
   summary: |
-    I built my first website in 2006, and I have loved web development ever since. I am passionate about accessibility, and creating functional, attractive websites that are easy for my clients to use.
+    I built my first website in 2006, and I have never looked back. I am passionate about accessibility and good UX, and about creating functional, attractive websites that are easy for my clients to use.
 
     I started my own WordPress business in 2007, in South Africa, and most of my clients were NGOs or small businesses that came to me through word-of-mouth.
 
@@ -58,12 +58,16 @@ career-profile:
 
     As a freelance business owner and senior WordPress developer, my role has been wide-ranging and diverse, but ultimately, I am responsible for the successful launch of my clients' websites. I am involved in every stage of a web project, from start to finish, including taking client specifications, conducting user research, managing stakeholder engagement, developing and implementing a solution for the client's specific requirements, designing something beautiful, conducting post-launch data analysis, recommending SEO optimisations and marketing improvements, monitoring for security and compliance issues, and making strategic recommendations to stakeholders. My role also included creating and managing project timelines, managing project scope, prioritising features for development, contributing to budgets/quotes, and writing tender applications.
 
-    My current tech-stack includes WordPress (both front and back-end, creating both themes and bespoke plugins written with PHP, HTML5, CSS3 and Javascript/ECMAScript 6 and JQuery), Twitter Bootstrap 3+ and 4+, pagebuilders such as Divi and frameworks such as Genesis Pro for WordPress themes, the WordPress REST API, various third-party REST APIs, SCSS/SASS, Git, and MySQL. Project management is conducted via Jira.
+    My current tech-stack includes WordPress (both front and back-end, creating both themes and bespoke plugins written with PHP, HTML5, CSS3 and Javascript/ECMAScript 6 and JQuery), Twitter Bootstrap 3+, 4+ and 5+, pagebuilders such as Divi and frameworks such as Genesis Pro for WordPress themes, the WordPress REST API, various third-party REST APIs, SCSS/SASS, Git, and MySQL. Project management is conducted via Jira.
 
 education:
   - degree: BSc (Hons) in Biochemistry
-    university: University of KwaZulu-Natal
+    university: University of KwaZulu-Natal, South Africa
     time: 2002
+
+  - degree: BSc in Biochemistry and Animal Genetics
+    university: University of Natal, South Africa
+    time: 1999
 
 experiences:
   - role: Senior WordPress Developer
@@ -72,9 +76,9 @@ experiences:
     details: |
       Note - *Appiercom was bought out by Ingenium in early 2021, but I list them here as one job, because from my perspective, the only thing that changed was the name printed on the payslip. Everything else (job, location, team), stayed the same following the acquisition.*
 
-      **Responsible for maintenance of 22 websites, including the successful launch of 9 of those.**
+      **Responsible for maintenance of more than 20 WordPress websites, including the successful launch of more than 10 of those.**
 
-      I design and implement beautiful WordPress websites, using either Twitter Bootstrap 4+, a page builder such as Divi, or the Genesis Pro Framework, as per client requirements. I am responsible for concept-to-completion of new web sites. I also create custom plugins to meet specific customer needs, and conduct regular maintenance and optimisation on our client websites. My duties include:
+      I design and implement beautiful WordPress websites, using either Twitter Bootstrap, a page builder such as Divi, or a Gutenburg block-based framework (such as the Genesis Pro Framework), as per client requirements. I am responsible for concept-to-completion of new web sites. I also create custom plugins to meet specific customer needs, and conduct regular maintenance and optimisation on our client websites. My duties include:
       - writing tender applications for public service requests
       - taking client specifications
       - conducting client onboarding workshops
@@ -94,6 +98,10 @@ experiences:
       - writing bespoke WordPress plugins where existing solutions are insufficient
       - version control using GitHub and SharePoint
       - DNS management, including CloudFlare and email (DKIM, SPF) records
+      - conducting in-person and online client training
+      - creating video screencasts with voiceovers for client training
+
+      Recently, my role expanded to include the company's mobile app projects. In this role, I am responsible for the creation and maintenance of apps created using the GoodBarber App Building platform. This role included all of the same project- and product-management tasks listed above, in addition to the design, data-capture and launch of a successfull mobile application, in PWA format, and in native iOS and Android formats.
 
   - role: Owner/Freelance WordPress Developer
     time: 2007 - 2019
@@ -167,7 +175,7 @@ skills:
     - name: eCommerce/WooCommerce
       level: 85%
 
-    - name: Bootstrap (3+ and 4+)
+    - name: Bootstrap (3+, 4+ and 5+)
       level: 85%
 
     - name: PHP
@@ -211,12 +219,12 @@ projects:
       link: "https://dochasautism.ie"
       tagline: "This was a pro-bono project for a local charity that supports children with autism. The site was a WordPress site using the Divi page builder, and incorporated a complex online membership application, and an eCommerce solution that allows users to donate an amount of their choice, as either a once-off donation or as a recurring donation. Plugins included an automated backup solution, caching with CloudFlare, image and script optimisation and SSL support."
 
-    - title: Ingenium Training and Consulting - https://www.ingeniumtc.com/
-      link: "https://ingeniumtc.com"
-      tagline: "This was a multi-company project, with external consultants engaged for both SEO optimisation of the text content, and a graphic design company for the overall look. The site was created in WordPress and implemented using the Divi page builder. Hosting was set up to include development, staging and production environments."
+    - title: SafeChoice Safety - https://www.safechoicesafety.com/
+      link: "https://safechoicesafety.com"
+      tagline: "This was a multi-company project, with external consultants engaged for both SEO optimisation of the text content, and a graphic design company for the overall look. The site was created in WordPress and implemented using the Frost theme. Hosting was set up to include development, staging and production environments."
 
-    - title: My Pathway Journey - https://mypathwayjourney.com/
-      link: "https://mypathwayjourney.com"
+    - title: My Pathway Journey - https://www.pathwayreport.com//
+      link: "https://www.pathwayreport.com/"
       tagline: "This project incorporated several custom plugins, including a custom-built psychometric test for secondary school students, and integration with an external Learning Management System (LMS) using their published REST API. An eCommerce solution was also implemented, using WooCommerce, WooCommerce Memberships and WooCommerce Subscriptions."
 
     - title: Theatre 4 Youth - https://www.theatre4youth.co.za
@@ -239,20 +247,18 @@ projects:
       link: "http://mmpdb.dalkescientific.com/"
       tagline: "This static site was created using Jekyll, with a Bootstrap 4-compatible theme."
 
-    - title: https://www.thegreymattersnetwork.com/
-      link: "https://www.thegreymattersnetwork.com/"
-
     - title: https://grahamdominy.co.za/
       link: "https://grahamdominy.co.za/"
 
-    - title: https://detailfactory.ie/
-      link: "https://detailfactory.ie/"
+    - title: https://www.bulldogsports.ie/
+      link: "https://www.bulldogsports.ie/"
 
-    - title: https://ergosportmodels.com/
-      link: "https://ergosportmodels.com/"
+    - title: https://gearysgarage.com/
+      link: "https://gearysgarage.com/"
 
-    - title: https://www.yangotrack.com/
-      link: "https://www.yangotrack.com/"
+    - title: https://www.idnmsa.ie/
+      link: "https://www.idnmsa.ie/"
+
 
 
 footer: >
