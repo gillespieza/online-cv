@@ -3,187 +3,257 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Amanda Dominy
-    tagline: Looking at ya
-    avatar: web_profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Amanda Dominy
+  tagline: WordPress dev, fabricator&trade;, dog lover
+  avatar: web_profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: dominy.amanda@gmail.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+  # Sidebar links
+  email: gillespie.amanda@gmail.com
+  phone: +353 (0)87 717 3924
+  website: #do not add http://
+  linkedin: adominy
+  github: gillespieza
+  gitlab:
+  bitbucket:
+  twitter: "@gillespieza"
+  stack-overflow: 184801/gillespieza # Number/Username, e.g. 123456/alandoe
+  wordpress-stackexchange: 1118/gillespieza
+  goodreads: 10236347-amanda # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Native
+  languages:
+    - idiom: English
+      level: Native
 
-      - idiom: French
-        level: Professional
+    - idiom: Afrikaans
+      level: Conversational
 
-      - idiom: Spanish
-        level: Professional
+  interests:
+    - item: Positive Reinforcement Dog Training
+      link:
 
-    interests:
-      - item: Climbing
-        link:
+    - item: Textile Crafts
+      link:
 
-      - item: Snowboarding
-        link:
+    - item: Dystopian Fiction
+      link:
 
-      - item: Cooking
-        link:
+    - item: Euro-style Boardgames
+      link:
+
+    - item: Wine (especially red)
+      link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+  title: Career Profile
+  summary: |
+    I built my first website in 2006, and I have loved web development ever since. I am passionate about accessibility, and creating functional, attractive websites that are easy for my clients to use.
+
+    I started my own WordPress business in 2007, in South Africa, and most of my clients were NGOs or small businesses that came to me through word-of-mouth.
+
+    In 2019, I moved to Ireland, and took a position with Appiercom, who were subsequently bought out by Ingenium TC.
+
+    As a freelance business owner and senior WordPress developer, my role has been wide-ranging and diverse, but ultimately, I am responsible for the successful launch of my clients' websites. I am involved in every stage of a web project, from start to finish, including taking client specifications, conducting user research, managing stakeholder engagement, developing and implementing a solution for the client's specific requirements, designing something beautiful, conducting post-launch data analysis, recommending SEO optimisations and marketing improvements, monitoring for security and compliance issues, and making strategic recommendations to stakeholders. My role also included creating and managing project timelines, managing project scope, prioritising features for development, contributing to budgets/quotes, and writing tender applications.
+
+    My current tech-stack includes WordPress (both front and back-end, creating both themes and bespoke plugins written with PHP, HTML5, CSS3 and Javascript/ECMAScript 6 and JQuery), Twitter Bootstrap 3+ and 4+, pagebuilders such as Divi and frameworks such as Genesis Pro for WordPress themes, the WordPress REST API, various third-party REST APIs, SCSS/SASS, Git, and MySQL. Project management is conducted via Jira.
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+  - degree: BSc (Hons) in Biochemistry
+    university: University of KwaZulu-Natal
+    time: 2002
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  - role: Senior WordPress Developer
+    time: 2020 - Present
+    company: Appiercom/Ingenium, Ireland
+    details: |
+      Note - *Appiercom was bought out by Ingenium in early 2021, but I list them here as one job, because from my perspective, the only thing that changed was the name printed on the payslip. Everything else (job, location, team), stayed the same following the acquisition.*
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      **Responsible for maintenance of 22 websites, including the successful launch of 9 of those.**
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      I design and implement beautiful WordPress websites, using either Twitter Bootstrap 4+, a page builder such as Divi, or the Genesis Pro Framework, as per client requirements. I am responsible for concept-to-completion of new web sites. I also create custom plugins to meet specific customer needs, and conduct regular maintenance and optimisation on our client websites. My duties include:
+      - writing tender applications for public service requests
+      - taking client specifications
+      - conducting client onboarding workshops
+      - conducting user research and user roadmapping
+      - project management through Jira and Excel
+      - prioritising features for development within a specified timeline
+      - managing project scope
+      - reporting project status and updates to stakeholders
+      - data analysis through Google Analytics, spreadsheets (Google Sheets, Excel) and other platforms to identify potential problems and solutions
+      - cross-team communication with marketing, legal, finance and development teams
+      - SEO optimisation
+      - ongoing site maintenance and refinement
+      - ongoing customer support using Zoho Desk customer service ticketing system
+      - domain name registration and hosting
+      - installation, configuration and optimisation of WordPress
+      - writing customised WordPress child themes
+      - writing bespoke WordPress plugins where existing solutions are insufficient
+      - version control using GitHub and SharePoint
+      - DNS management, including CloudFlare and email (DKIM, SPF) records
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  - role: Owner/Freelance WordPress Developer
+    time: 2007 - 2019
+    company: Salamander Web Media, South Africa
+    details: |
+      **Responsible for successfully launching more than 30 websites, as a freelancer.**
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      I helped clients in all stages of their website needs, from registering and hosting a domain name, to installing and configuring WordPress. My main activities were creating WordPress themes (using Bootstrap 4+ as a framework), and creating custom plugins to address specific client problems. Other tasks included -
+      - taking client specifications
+      - conducting user research and user roadmapping
+      - data analysis through Google Analytics and other platforms
+      - ongoing customer support
+      - SEO optimisation, site maintenance
+      - domain name registration and hosting
+      - installation, configuration and optimisation of WordPress
+      - writing customised WordPress child themes
+      - writing bespoke WordPress plugins where existing solutions are insufficient
+      - DNS management, including CloudFlare and email (DKIM, SPF) records
+  - role: Freelance Academic Conference Organiser
+    time: 2007 - 2019
+    company: University of Cape Town
+    details: |
+      Planned and co–ordinated multiple academic conferences and workshops for the Electron Microscope Unit (University of Cape Town, South Africa). Duties included -
+      - Creation of a conference website with online registration and abstract submission
+      - Obtaining multiple bids from vendors, maintenance of inventory, creating purchase orders and check requests, and tracking shipments and timely payment of vendors
+      - Logistical considerations of visiting international speakers
+      - Organising commercial exhibitions
+      - Liaising with applicants regarding status & completeness of applications
+      - Data entry, maintenance of databases on registration forms, generating reports as needed
+      - Creation of welcome packets for participants
+      - Coordinating the production and printing of resource materials and abstracts distributed at the conference
+      - On–site logistics
+      - Creation and distribution of conference advertising literature
+      - Various general office support activities including basic book–keeping and budgetary support, web–site support, handling email queries, etc
+  - role: Medical Editor and Technical Writer
+    time: 2008 - 2012 (part time)
+    company: Care & Cure Medical Publishing
+    details:
+      In this position, I was responsible for creating concise (4 to 6 page) medical newsletters to be distributed to doctors (both General Practice and specialists) by pharmaceutical sales representatives. I was provided technical briefs by a variety of international pharmaceutical companies, and each newsletter was specific to a particular drug product and a particular topic (for example, Post-operative pain management following knee or hip replacement in osteoarthritis, using COX-2 inhibitors for pain control). I would source peer-reviewed journal articles that reflected the sponsoring product favourably, correct any grammar or difficult-to-read sentences, and re-write various abstracts to comply with various countries' medical compliance regulations. These newsletters would be used by doctors for Continual Professional Development (CPD) credits, and by pharmaceutical sales representatives as sales tools.
+  - role: IT Manager
+    time: 2008 - 2011 (part time)
+    company: Out In Africa South African Gay & Lesbian Film Festival
+  - role: Bioinformatics Intern
+    time: 2005 - 2006
+    company: National Bioinformatics Network
+    details: |
+      Internship involving the improvement of skills for further bioinformatics post-graduate study and/or employment. Skills taught included data analytics using Python and R, relational database design, graph theory, software usability, etc. Modules included -
+      - Introductory Python
+      - Writing and Ethics
+      - Linux
+      - Database Theory
+      - Biological Databases
+      - Hardware and Networking
+      - Structural Bioinformatics
+      - Genomics
+      - Proteomics
+      - High Throughput Biology
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      The initiative is no longer running, but full descriptions of the course curriculum can be seen at https://web.archive.org/web/20060618041606/http://www.nbn.ac.za/Education/courses.html
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiencies
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+  toolset:
+    - name: HTML5 and CSS3
+      level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+    - name: WordPress
+      level: 85%
 
-      - name: Angular
-        level: 98%
+    - name: eCommerce/WooCommerce
+      level: 85%
 
-      - name: HTML5 & CSS
-        level: 95%
+    - name: Bootstrap (3+ and 4+)
+      level: 85%
 
-      - name: Ruby on Rails
-        level: 85%
+    - name: PHP
+      level: 75%
 
-      - name: Sketch & Photoshop
-        level: 60%
+    - name: cPanel/Plesk/DNS Management
+      level: 75%
+
+    - name: SSL Certificate Management
+      level: 70%
+
+    - name: REST APIs
+      level: 60%
+
+    - name: WordPress Pagebuilders (eg Divi, Elementor)
+      level: 60%
+
+    - name: Javascript (ES6) & jQuery
+      level: 55%
+
+    - name: SEO Tools (Google Analytics, Search Console, Google Business)
+      level: 55%
+
+    - name: SCSS/SASS
+      level: 50%
+
+    - name: SQL
+      level: 50%
+
+    - name: Git
+      level: 50%
+
+    - name: Photoshop
+      level: 40%
+projects:
+  title: Projects/Portfolio
+  intro: >
+    These are some of my previous clients. They were mostly small businesses and NGOs, and sadly, not all of these businesses are still in existence (especially after Covid). I am happy to provide screenshots of my work for businesses that no longer exist.
+  assignments:
+    - title: Dochas Autism - http://www.dochasautism.ie/
+      link: "https://dochasautism.ie"
+      tagline: "This was a pro-bono project for a local charity that supports children with autism. The site was a WordPress site using the Divi page builder, and incorporated a complex online membership application, and an eCommerce solution that allows users to donate an amount of their choice, as either a once-off donation or as a recurring donation. Plugins included an automated backup solution, caching with CloudFlare, image and script optimisation and SSL support."
+
+    - title: Ingenium Training and Consulting - https://www.ingeniumtc.com/
+      link: "https://ingeniumtc.com"
+      tagline: "This was a multi-company project, with external consultants engaged for both SEO optimisation of the text content, and a graphic design company for the overall look. The site was created in WordPress and implemented using the Divi page builder. Hosting was set up to include development, staging and production environments."
+
+    - title: My Pathway Journey - https://mypathwayjourney.com/
+      link: "https://mypathwayjourney.com"
+      tagline: "This project incorporated several custom plugins, including a custom-built psychometric test for secondary school students, and integration with an external Learning Management System (LMS) using their published REST API. An eCommerce solution was also implemented, using WooCommerce, WooCommerce Memberships and WooCommerce Subscriptions."
+
+    - title: Theatre 4 Youth - https://www.theatre4youth.co.za
+      link: "https://www.theatre4youth.co.za"
+      tagline: "This was a really fun WordPress project to work on. This NGO bridges theatre with education, and their site needed several custom post types for Theatre Companies, Theatrical Productions, Schools, and Geographical Areas - modelling a relational database. They needed access control to certain information, and an interactive Google Map showing the location of registered schools and/or Theatre Companies. They also needed front-end submission of theatrical productions for registered users. This is probably one of my most interactive sites. It was built using Bootstrap 3+, and later upgraded to Bootstrap 4+."
+
+    - title: Encounters SA Documentary Film Festival - https://www.encounters.co.za
+      link: "https://www.encounters.co.za"
+      tagline: "A client who requires an annual site redesign. Artwork is provided by an external Graphic Designer, and I implement the design into a responsive WordPress theme. Custom Posts handle the Films, Guests and Guest Appearances. A complex film submission and paypal payment is handled using Gravity Forms. See http://archives.encounters.co.za for years 2013-2021"
+
+    - title: Biophysics Workshop - https://biophysicsworkshop.co.za
+      link: "https://biophysicsworkshop.co.za/"
+      tagline: "This WordPress site is used by the Centre for Imaging and Analysis, at the University of Cape Town (South Africa), for advertising various courses and workshops. For each course, the design is changed to fit new sponsors and corporate branding requirements. Membership permissions are required for certain sections of the website, and the site includes a student forum."
+
+    - title: chemfp - http://chemfp.com
+      link: "http://chemfp.com/"
+      tagline: "Originally created in WordPress, this site was converted to a static Jekyll site."
+
+    - title: mmpdb - http://mmpdb.dalkescientific.com
+      link: "http://mmpdb.dalkescientific.com/"
+      tagline: "This static site was created using Jekyll, with a Bootstrap 4-compatible theme."
+
+    - title: https://www.thegreymattersnetwork.com/
+      link: "https://www.thegreymattersnetwork.com/"
+
+    - title: https://grahamdominy.co.za/
+      link: "https://grahamdominy.co.za/"
+
+    - title: https://detailfactory.ie/
+      link: "https://detailfactory.ie/"
+
+    - title: https://ergosportmodels.com/
+      link: "https://ergosportmodels.com/"
+
+    - title: https://www.yangotrack.com/
+      link: "https://www.yangotrack.com/"
+
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
